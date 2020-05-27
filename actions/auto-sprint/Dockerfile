@@ -14,5 +14,8 @@ RUN npm ci
 # Copy the rest of your action's code
 COPY . /
 
-# Run `node /index.js`
+# Run `!
+
+71f9b4642a43a8958cbdd2e63dd6c7ead302823a
+
 ENTRYPOINT ["node", "/index.js"]
